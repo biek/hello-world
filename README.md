@@ -1,2 +1,8 @@
-# hello-world
-don't ask, i'm just following instructions at this point
+# bieks ama
+right, here goes ...
+
+messing around with computers since the late seventies
+built my first halfway the eightees
+in 'it' full-time since the early ninetees
+support engineer for life
+
