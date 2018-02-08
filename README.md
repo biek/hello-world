@@ -1,8 +1,17 @@
-# bieks ama
-right, here goes ...
+# big title
+### smaller title
 
-messing around with computers since the late seventies
-built my first halfway the eightees
-in 'it' full-time since the early ninetees
-support engineer for life
+don't mind me, i have no idea what i'm doing ... yet
 
+[visible link text](http://address.domain/)
+
+`this will show up as code`
+
+"this will not"
+
+1. numbered
+2. bullet
+3. list
+
+* different
+* bullet
